@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should render should match the snapshot 1`] = `
+<div
+  className="App"
+>
+  <button
+    className="firstButton"
+    onClick={[Function]}
+  >
+    First Buttons
+  </button>
+  <p>
+    Not Clicked
+  </p>
+  <button
+    className="secondButton"
+    onClick={[Function]}
+  >
+    Second Button
+  </button>
+  <p>
+    Not Clicked
+  </p>
+  <button
+    className="thirdButton"
+    onClick={[Function]}
+  >
+    Third Button
+  </button>
+  <p>
+    Not Clicked
+  </p>
+</div>
+`;
